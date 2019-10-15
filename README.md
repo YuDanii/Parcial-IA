@@ -1,0 +1,2 @@
+# Parcial-IA
+SOS
